@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telefon</string>
+    <string name="app_launcher_name">Telefon</string>
+    <string name="default_phone_app_prompt">Prosím nastavte tuto aplikace jako výchozí aplikaci k telefonování</string>
+    <!-- Contacts -->
+    <string name="could_not_access_contacts">Nelze získat přístup k vašim kontaktům</string>
+    <!-- Recents -->
+    <string name="no_previous_calls">Nebyly nalezeny žádné předchozí hovory</string>
+    <string name="could_not_access_the_call_history">Nelze získat přístup k historii hovorů</string>
+    <string name="request_access">Požádat o přístup</string>
+    <string name="remove_confirmation">Opravdu chcete odebrat vybrané položky z historie hovorů?</string>
+    <string name="clear_history_confirmation">Opravdu chcete z historie hovorů odebrat vše?</string>
+    <string name="send_sms">Poslat SMS</string>
+    <string name="show_grouped_calls">Zobrazit seskupené hovory</string>
+    <string name="clear_call_history">Vymazat historii hovorů</string>
+    <string name="show_call_details">Show call details</string>
+    <!-- Dialpad -->
+    <string name="dialpad">Číselník</string>
+    <string name="asterisk">Asterisk</string>
+    <string name="hashtag">Hashtag</string>
+    <string name="call_number">Call number</string>
+    <!-- Dialer -->
+    <string name="dialer">Telefon</string>
+    <string name="accept">Přijmout</string>
+    <string name="accept_call">Accept call</string>
+    <string name="decline">Odmítnout</string>
+    <string name="decline_call">Decline call</string>
+    <string name="unknown_caller">Neznámý volající</string>
+    <string name="is_calling">Volání…</string>
+    <string name="dialing">Vytáčení…</string>
+    <string name="call_ended">Hovor ukončen</string>
+    <string name="call_ending">Zavěsit</string>
+    <string name="ongoing_call">Odchozí hovor</string>
+    <string name="select_sim">Vyberte SIM pro tento hovor</string>
+    <string name="always_use_this_sim">Pro toto číslo vždy použijte tuto SIM kartu</string>
+    <string name="unset_default_sim">Zrušit nastavení výchozí SIM karty</string>
+    <string name="calls">Calls</string>
+    <string name="turn_microphone_on">Turn microphone on</string>
+    <string name="turn_microphone_off">Turn microphone off</string>
+    <string name="turn_speaker_on">Turn speaker on</string>
+    <string name="turn_speaker_off">Turn speaker off</string>
+    <string name="show_dialpad">Show dialpad</string>
+    <string name="hide_dialpad">Hide dialpad</string>
+    <string name="end_call">End call</string>
+    <!-- Speed dial -->
+    <string name="speed_dial">Rychlé vytáčení</string>
+    <string name="manage_speed_dial">Spravujte rychlou volbu</string>
+    <string name="speed_dial_label">Kliknutím na číslo mu přiřadíte kontakt. Potom můžete rychle zavolat danému kontaktu dlouhým stisknutím daného čísla na číselníku.</string>
+    <!-- Settings -->
+    <string name="group_subsequent_calls">Seskupte další hovory se stejným číslem v protokolu hovorů</string>
+    <string name="open_dialpad_by_default">Open the dialpad by default when the app opens</string>
+    <string name="disable_proximity_sensor">Disable proximity sensor during calls</string>
+</resources>

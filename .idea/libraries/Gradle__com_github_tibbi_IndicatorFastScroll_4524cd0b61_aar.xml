@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibbi:IndicatorFastScroll:4524cd0b61@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f55742eed15b522ec8878b932fb10267/transformed/jetified-IndicatorFastScroll-4524cd0b61/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f55742eed15b522ec8878b932fb10267/transformed/jetified-IndicatorFastScroll-4524cd0b61/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f55742eed15b522ec8878b932fb10267/transformed/jetified-IndicatorFastScroll-4524cd0b61/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibbi/IndicatorFastScroll/4524cd0b61/b16b209650919caad208947032d211e4264c2645/IndicatorFastScroll-4524cd0b61-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

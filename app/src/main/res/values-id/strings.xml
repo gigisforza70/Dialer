@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Dialer</string>
+    <string name="app_launcher_name">Dialer</string>
+    <string name="default_phone_app_prompt">Please make this app the default Phone app</string>
+    <!-- Contacts -->
+    <string name="could_not_access_contacts">Tidak dapat mengakses kontak anda</string>
+    <!-- Recents -->
+    <string name="no_previous_calls">Tidak ada panggilan sebelumnya yang ditemukan</string>
+    <string name="could_not_access_the_call_history">Tidak dapat mengakses riwayat panggilan</string>
+    <string name="request_access">Akses diminta</string>
+    <string name="remove_confirmation">Apakah Anda yakin ingin menghapus item yang dipilih dari Call History?</string>
+    <string name="clear_history_confirmation">Are you sure you want to remove everything from the Call History?</string>
+    <string name="send_sms">Kirim SMS</string>
+    <string name="show_grouped_calls">Show grouped calls</string>
+    <string name="clear_call_history">Clear call history</string>
+    <string name="show_call_details">Show call details</string>
+    <!-- Dialpad -->
+    <string name="dialpad">Tombol nomor</string>
+    <string name="asterisk">Asterisk</string>
+    <string name="hashtag">Hashtag</string>
+    <string name="call_number">Call number</string>
+    <!-- Dialer -->
+    <string name="dialer">Dialer</string>
+    <string name="accept">Menerima</string>
+    <string name="accept_call">Accept call</string>
+    <string name="decline">Menolak</string>
+    <string name="decline_call">Decline call</string>
+    <string name="unknown_caller">Penelpon tak dikenal</string>
+    <string name="is_calling">Sedang memanggil…</string>
+    <string name="dialing">Memanggil…</string>
+    <string name="call_ended">Panggilan Berakhir</string>
+    <string name="call_ending">Panggilan Diakhiri</string>
+    <string name="ongoing_call">Panggilan Sedang Berlangsung</string>
+    <string name="select_sim">Pilih SIM untuk panggilan ini</string>
+    <string name="always_use_this_sim">Gunakan selalu SIM ini untuk nomor ini</string>
+    <string name="unset_default_sim">Unset default SIM</string>
+    <string name="calls">Calls</string>
+    <string name="turn_microphone_on">Turn microphone on</string>
+    <string name="turn_microphone_off">Turn microphone off</string>
+    <string name="turn_speaker_on">Turn speaker on</string>
+    <string name="turn_speaker_off">Turn speaker off</string>
+    <string name="show_dialpad">Show dialpad</string>
+    <string name="hide_dialpad">Hide dialpad</string>
+    <string name="end_call">End call</string>
+    <!-- Speed dial -->
+    <string name="speed_dial">Panggilan cepat</string>
+    <string name="manage_speed_dial">Kelola panggilan cepat</string>
+    <string name="speed_dial_label">Klik pada nomor untuk menetapkan kontak ke sana. Anda kemudian dapat dengan cepat memanggil kontak yang diberikan dengan menekan lama nomor yang diberikan di dialer.</string>
+    <!-- Settings -->
+    <string name="group_subsequent_calls">Kelompokkan panggilan berikutnya dengan nomor yang sama di log panggilan</string>
+    <string name="open_dialpad_by_default">Open the dialpad by default when the app opens</string>
+    <string name="disable_proximity_sensor">Disable proximity sensor during calls</string>
+</resources>

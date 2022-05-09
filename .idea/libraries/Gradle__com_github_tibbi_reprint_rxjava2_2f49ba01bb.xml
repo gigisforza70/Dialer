@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibbi.reprint:rxjava2:2f49ba01bb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibbi.reprint/rxjava2/2f49ba01bb/b22f64c061548197d754fe520bd7946a6cc58bfa/rxjava2-2f49ba01bb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibbi.reprint/rxjava2/2f49ba01bb/e2ee6c3d1dd2c03c2355eab32675cb33bb66cc16/rxjava2-2f49ba01bb-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibbi.reprint/rxjava2/2f49ba01bb/19ab21cc20a0ad88141e3a13bb7a39ce25634ce8/rxjava2-2f49ba01bb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

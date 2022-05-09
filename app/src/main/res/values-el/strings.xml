@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Κλήση</string>
+    <string name="app_launcher_name">Κλήση</string>
+    <string name="default_phone_app_prompt">Παρακαλώ κάντε αυτή την εφαρμογή προεπιλεγμένη εφαρμογή Κλήσης</string>
+    <!-- Contacts -->
+    <string name="could_not_access_contacts">Αδυναμία πρόσβασης στις επαφές σας</string>
+    <!-- Recents -->
+    <string name="no_previous_calls">Δεν βρέθηκαν προηγούμενες κλήσεις</string>
+    <string name="could_not_access_the_call_history">Αδυναμία πρόσβασης στο ιστορικό κλήσεων</string>
+    <string name="request_access">Αίτηση πρόσβασης</string>
+    <string name="remove_confirmation">Είστε βέβαιοι ότι θέλετε να καταργήσετε τα επιλεγμένα στοιχεία από το ιστορικό κλήσεων;</string>
+    <string name="clear_history_confirmation">Είστε σίγουροι ότι θέλετε να αφαιρέσετε τα πάντα από το ιστορικό κλήσεων;</string>
+    <string name="send_sms">Αποστολή SMS</string>
+    <string name="show_grouped_calls">Προβολή ομαδοποιημένων κλήσεων</string>
+    <string name="clear_call_history">Διαγραφή ιστορικού κλήσεων</string>
+    <string name="show_call_details">Προβολή λεπτομερειών κλήσης</string>
+    <!-- Dialpad -->
+    <string name="dialpad">Πληκτρολόγιο κλήσης</string>
+    <string name="asterisk">Αστερίσκος</string>
+    <string name="hashtag">Hashtag</string>
+    <string name="call_number">Αριθμός κλήσης</string>
+    <!-- Dialer -->
+    <string name="dialer">Κλήση</string>
+    <string name="accept">Αποδοχή</string>
+    <string name="accept_call">Αποδοχή κλήσης</string>
+    <string name="decline">Απόρριψη</string>
+    <string name="decline_call">Απόρριψη κλήσης</string>
+    <string name="unknown_caller">Άγνωστος καλών</string>
+    <string name="is_calling">Καλεί…</string>
+    <string name="dialing">Κλήση…</string>
+    <string name="call_ended">Η κλήση τερματίστηκε</string>
+    <string name="call_ending">Τέλος κλήσης</string>
+    <string name="ongoing_call">Τρέχουσα κλήση</string>
+    <string name="select_sim">Επιλέξτε SIM για αυτήν την κλήση</string>
+    <string name="always_use_this_sim">Να χρησιμοποιείται πάντα αυτή η SIM για αυτόν τον αριθμό</string>
+    <string name="unset_default_sim">Χωρίς προεπ/μένη SIM</string>
+    <string name="calls">Κλήσεις</string>
+    <string name="turn_microphone_on">Ενεργοποίηση μικροφώνου</string>
+    <string name="turn_microphone_off">Απενεργοποίηση μικροφώνου</string>
+    <string name="turn_speaker_on">Ενεργοποίηση ηχείου</string>
+    <string name="turn_speaker_off">Απενεργοποίηση ηχείου</string>
+    <string name="show_dialpad">Εμφάνιση πληκτρολογίου</string>
+    <string name="hide_dialpad">Απόκρυψη πληκτρολογίου</string>
+    <string name="end_call">Τέλος Κλήσης</string>
+    <!-- Speed dial -->
+    <string name="speed_dial">Ταχεία κλήση</string>
+    <string name="manage_speed_dial">Διαχείριση ταχείας κλήσης</string>
+    <string name="speed_dial_label">Κάντε κλικ σε έναν αριθμό για να αντιστοιχίσετε μια επαφή σε αυτόν. Στη συνέχεια, μπορείτε να καλέσετε γρήγορα τη δεδομένη επαφή πατώντας τον  αριθμό αυτόν.</string>
+    <!-- Settings -->
+    <string name="group_subsequent_calls">Ομαδοποίηση των επόμενων κλήσεων του ίδιου αριθμού στο αρχείο καταγραφής κλήσεων</string>
+    <string name="open_dialpad_by_default">Ανοίξτε το πληκτρολόγιο από προεπιλογή όταν ανοίγει η εφαρμογή</string>
+    <string name="disable_proximity_sensor">Απενεργοποίηση του αισθητήρα εγγύτητας κατά τη διάρκεια κλήσεων</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main_tabs_background"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:background="@drawable/tab_background"
+        android:layout_alignStart="@+id/main_tabs_holder"
+        android:layout_alignEnd="@+id/main_tabs_holder"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="-3dp"
+        android:layout_marginEnd="-3dp"
+        android:elevation="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/viewpager"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="Orientation" />
+    <!--android:layout_height="38dp"-->
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/main_tabs_holder"
+        android:layout_width="350dp"
+        android:layout_height="26dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:elevation="16dp"
+        app:tabIndicator="@drawable/tab_indicator"
+        app:tabIndicatorAnimationMode="elastic"
+        app:tabIndicatorColor="@android:color/white"
+        app:tabIndicatorGravity="stretch"
+        app:tabIndicatorHeight="48dp"
+        app:tabMinWidth="150dp"
+        app:tabMaxWidth="350dp"
+        app:tabSelectedTextColor="@android:color/white" />
+    <!--android:layout_height="32dp"
+        android:alpha="0.85"-->
+
+    <com.goodwy.commons.views.MyViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/main_tabs_holder" />
+
+    <ImageView
+        android:id="@+id/main_dialpad_button"
+        android:layout_width="@dimen/dialpad_button_size"
+        android:layout_height="@dimen/dialpad_button_size"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="@dimen/activity_margin"
+        android:layout_marginBottom="@dimen/activity_margin"
+        android:contentDescription="@string/dialpad"
+        android:background="@drawable/circle_background"
+        android:elevation="@dimen/medium_margin"
+        android:padding="@dimen/activity_margin"
+        android:src="@drawable/ic_dialpad_vector" />
+
+</RelativeLayout>

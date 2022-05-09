@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Dialer</string>
+    <string name="app_launcher_name">Marcador</string>
+    <string name="default_phone_app_prompt">Please make this app the default Phone app</string>
+    <!-- Contacts -->
+    <string name="could_not_access_contacts">Non foi posible acceder aos contactos</string>
+    <!-- Recents -->
+    <string name="no_previous_calls">Non existen chamadas anteriores</string>
+    <string name="could_not_access_the_call_history">Non foi posible acceder ao historial de chamadas</string>
+    <string name="request_access">Pedir acceso</string>
+    <string name="remove_confirmation">Quere eliminar do historial os elementos seleccionados?</string>
+    <string name="clear_history_confirmation">Are you sure you want to remove everything from the Call History?</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="show_grouped_calls">Show grouped calls</string>
+    <string name="clear_call_history">Clear call history</string>
+    <string name="show_call_details">Show call details</string>
+    <!-- Dialpad -->
+    <string name="dialpad">Marcador</string>
+    <string name="asterisk">Asterisk</string>
+    <string name="hashtag">Hashtag</string>
+    <string name="call_number">Call number</string>
+    <!-- Dialer -->
+    <string name="dialer">Marcador</string>
+    <string name="accept">Aceptar</string>
+    <string name="accept_call">Accept call</string>
+    <string name="decline">Rexeitar</string>
+    <string name="decline_call">Decline call</string>
+    <string name="unknown_caller">Descoñecido</string>
+    <string name="is_calling">Está chamando…</string>
+    <string name="dialing">Marcando…</string>
+    <string name="call_ended">Chamada rematada</string>
+    <string name="call_ending">Rematando chamada</string>
+    <string name="ongoing_call">Chamada en curso</string>
+    <string name="select_sim">Seleciona unha SIM para esta chamada</string>
+    <string name="always_use_this_sim">Utilizar sempre esta SIM para chamar a este número</string>
+    <string name="unset_default_sim">Unset default SIM</string>
+    <string name="calls">Calls</string>
+    <string name="turn_microphone_on">Turn microphone on</string>
+    <string name="turn_microphone_off">Turn microphone off</string>
+    <string name="turn_speaker_on">Turn speaker on</string>
+    <string name="turn_speaker_off">Turn speaker off</string>
+    <string name="show_dialpad">Show dialpad</string>
+    <string name="hide_dialpad">Hide dialpad</string>
+    <string name="end_call">End call</string>
+    <!-- Speed dial -->
+    <string name="speed_dial">Marcación rápida</string>
+    <string name="manage_speed_dial">Xestionar marcacións rápidas</string>
+    <string name="speed_dial_label">Preme no número para atribuír un contacto á marcación rápida. Posteriormente, poderá chamar directamente ao contacto a través da tecla da marcación rápida.</string>
+    <!-- Settings -->
+    <string name="group_subsequent_calls">Agrupar, no rexisto, as chamadas para o mesmo contacto</string>
+    <string name="open_dialpad_by_default">Open the dialpad by default when the app opens</string>
+    <string name="disable_proximity_sensor">Disable proximity sensor during calls</string>
+</resources>

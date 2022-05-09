@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ibrahimsn98:PhoneNumberKit:1.7.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9188bdd0a8e328510d99d8a11651f7f8/transformed/jetified-PhoneNumberKit-1.7.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9188bdd0a8e328510d99d8a11651f7f8/transformed/jetified-PhoneNumberKit-1.7.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9188bdd0a8e328510d99d8a11651f7f8/transformed/jetified-PhoneNumberKit-1.7.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ibrahimsn98/PhoneNumberKit/1.7.5/cb4b02c94aaf31028476cda1a935bcb3b91ede18/PhoneNumberKit-1.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

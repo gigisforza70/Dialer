@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telefon</string>
+    <string name="app_launcher_name">Telefon</string>
+    <string name="default_phone_app_prompt">Bitte machen Sie diese Anwendung zur Standard-Telefonanwendung</string>
+    <!-- Contacts -->
+    <string name="could_not_access_contacts">kein Zugriff auf Kontakte</string>
+    <!-- Recents -->
+    <string name="no_previous_calls">Deine Anrufliste ist leer</string>
+    <string name="could_not_access_the_call_history">kein Zugriff auf Anrufliste</string>
+    <string name="request_access">Zugriff anfordern</string>
+    <string name="remove_confirmation">Ausgewählte Anrufe definitiv aus der Anrufliste löschen?</string>
+    <string name="clear_history_confirmation">Bist du sicher, dass du alles aus der Anrufliste löschen möchtest?</string>
+    <string name="send_sms">Sende SMS</string>
+    <string name="show_grouped_calls">Zeige gruppierte Anrufe</string>
+    <string name="clear_call_history">Anrufliste löschen</string>
+    <string name="show_call_details">Anrufdetails anzeigen</string>
+    <!-- Dialpad -->
+    <string name="dialpad">Wählpad</string>
+    <string name="asterisk">Sternchen</string>
+    <string name="hashtag">Raute</string>
+    <string name="call_number">Rufnummer</string>
+    <!-- Dialer -->
+    <string name="dialer">Telefon</string>
+    <string name="accept">akzeptieren</string>
+    <string name="accept_call">Anruf annehmen</string>
+    <string name="decline">ablehnen</string>
+    <string name="decline_call">Anruf ablehnen</string>
+    <string name="unknown_caller">Unbekannter Anruf</string>
+    <string name="is_calling">ruft an…</string>
+    <string name="dialing">rufe an…</string>
+    <string name="call_ended">Anruf beendet</string>
+    <string name="call_ending">Anruf beenden</string>
+    <string name="ongoing_call">Aktueller Anruf</string>
+    <string name="select_sim">wähle die SIM Karte für diesen Anruf aus</string>
+    <string name="always_use_this_sim">benutze immer diese SIM Karte</string>
+    <string name="unset_default_sim">Standard SIM abstellen</string>
+    <string name="calls">Anrufe</string>
+    <string name="turn_microphone_on">Mikrofon einschalten</string>
+    <string name="turn_microphone_off">Mikrofon ausschalten</string>
+    <string name="turn_speaker_on">Lautsprecher einschalten</string>
+    <string name="turn_speaker_off">Lautsprecher ausschalten</string>
+    <string name="show_dialpad">Wähltasten anzeigen</string>
+    <string name="hide_dialpad">Wähltasten ausblenden</string>
+    <string name="end_call">Anruf beenden</string>
+    <!-- Speed dial -->
+    <string name="speed_dial">Kurzwahl</string>
+    <string name="manage_speed_dial">Kurzwahlnummern verwalten</string>
+    <string name="speed_dial_label">Klicke auf eine Zahl um einen Kontakt zuzuweisen. Danach kannst du den Kontakt schnell durch langes drücken der entsprechenden Zahl anrufen.</string>
+    <!-- Settings -->
+    <string name="group_subsequent_calls">In der Anrufliste aufeinanderfolgende Anrufe mit derselben Nummer gruppieren</string>
+    <string name="open_dialpad_by_default">Öffnen Sie die Wähltastatur als Standard, wenn die App geöffnet wird</string>
+    <string name="disable_proximity_sensor">Näherungssensor bei Anrufen deaktivieren</string>
+</resources>
